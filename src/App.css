@@ -31,7 +31,7 @@ body {
 }
 
 .animated-text {
-  animation: slide-up 15s ease-in-out infinite;
+  animation: slide-up 20s ease-in-out infinite;
   font-size: 1.5rem;
   line-height: 2rem;
   letter-spacing: 0.05em;
